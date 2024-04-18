@@ -5,7 +5,7 @@
  
  <h3 align="center">Junior Back-End developer and Data Science Analysor </h3>
 
-<p align="center">My previous account is erfannajafi. Because of 2FA mechanism, I can not use that account and this is my new account. </p>
+
 
 <p align="center">
   <a href="https://t.me/ewrfnnj"><img
@@ -86,7 +86,8 @@
       alt="github" width="45" height="45" /></a>
 </p>
 
- 
+
+ <p align="center">My previous account is erfannajafi. Because of 2FA mechanism, I can not use that account and this is my new account. </p>
 
  
 
