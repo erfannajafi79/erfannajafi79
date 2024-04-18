@@ -3,7 +3,7 @@
 
 
  
- <h3 align="center">Junior Back-End developer </h3>
+ <h3 align="center">Junior Back-End developer and Data Science Analysor </h3>
 
 
 <p align="center">
