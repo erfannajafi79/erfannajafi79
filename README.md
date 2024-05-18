@@ -87,7 +87,7 @@
 </p>
 
 
- <p align="center">My previous account is <a href="https://github.com/erfannajafi"/></a>erfannajafi. Because of 2FA mechanism, I can not use that account and this is my new account. </p>
+ <p align="center">Because of 2FA mechanism, I can not use my previous account and this is my new account. My previous account is <a href="https://github.com/erfannajafi" erfannajafi./>erfannajafi</p>
 
  
 
